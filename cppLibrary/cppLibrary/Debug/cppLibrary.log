@@ -1,0 +1,6 @@
+﻿  library.cpp
+c:\users\rladb\github\cpplibrary\cpplibrary\library.h(7): warning C4091: 'static ': 변수를 선언하지 않으면 'Math' 왼쪽은 무시됩니다.
+  main.cpp
+c:\users\rladb\github\cpplibrary\cpplibrary\library.h(7): warning C4091: 'static ': 변수를 선언하지 않으면 'Math' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+  cppLibrary.vcxproj -> C:\Users\rladb\GitHub\cppLibrary\Debug\cppLibrary.exe
